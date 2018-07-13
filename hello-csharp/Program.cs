@@ -7,8 +7,10 @@ namespace hello_csharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Write("Press any key to continue...");
-            Console.ReadKey(true);
+            Console.Write("hello world!");
+            Console.WriteLine("ahhhhh");
+            //Console.Write("Press any key to continue...");
+            //Console.ReadKey(true);
         }
     }
 }
