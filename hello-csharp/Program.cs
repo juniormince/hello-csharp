@@ -9,6 +9,7 @@ namespace hello_csharp
             Console.WriteLine("Hello World!");
             Console.Write("hello world!");
             Console.WriteLine("next line");
+            Console.WriteLine("will i show up immediately?");
             //Console.Write("Press any key to continue...");
             //Console.ReadKey(true);
         }
